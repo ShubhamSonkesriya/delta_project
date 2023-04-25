@@ -1,6 +1,7 @@
-**Delta Project Documentation**
+***Delta Project Documentation***
 
-Spark version 3.3.2
+**Development Environment Used** - Ubuntu 22.04 WSL on Windows, Spark version 3.3.2
+
 
 **File Structure**
 
